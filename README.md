@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tamghna
 - 👀 I’m interested in Python
-- 🌱 I’m currently learning HTML and Completed Python
+- 🌱 I’m currently learning HTML and Python
 - 💞️ I’m looking to collaborate on Python
 - 📫 How to reach me {ACTULLY I DONT KNOW LOL}
 - ⚡ Fun fact: I love Python
